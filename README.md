@@ -2,6 +2,8 @@
 
 SentimentAI is a tool which can recognize sentiment in text using Tensorflow Lite and embedded into Android using Flutter. It uses Natural Language Processing, with which you can get started <a href="https://blog.sreeteja.dev/sentiment-analysis">here.</a>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <a href='https://play.google.com/store/apps/details?id=com.sreetejadusi.sentimentai&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
                     style="width: 160px;" alt='Get it on Google Play'
                     src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
@@ -14,3 +16,6 @@ SentimentAI is a tool which can recognize sentiment in text using Tensorflow Lit
     <img src="https://github.com/sreetejadusi/sentimentAI/assets/67823025/142d0621-b196-48ed-b2c4-5092e32f7db8" style="width: 25%;" alt="Screenshot_20230917_183823">
     <img src="https://github.com/sreetejadusi/sentimentAI/assets/67823025/1b633611-3e64-4f13-90aa-8c1f5e2164bc" style="width: 25%;" alt="Screenshot_20230917_183806">
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sreetejadusi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sreetejadusi?trk=profile-badge">Sree Teja Dusi</a></div>
+              
